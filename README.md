@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DylanKirbs, Dylan Kirby
 - I'm currently enrolled in Stellenbosch University in South Africa.
-- I'm studying a Bsc in Copmuter Science
-- 
+- I'm studying a Bsc in Copmuter Science- 
 - I have a huge passion for programming and have competed nationally.
 - I currently work with Java, Python and C#
