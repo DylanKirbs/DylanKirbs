@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @DylanKirbs, Dylan Kirby
-- I'm currently enrolled in Stellenbosch University in South Africa.
-- I'm studying a Bsc in Computer Science- 
-- I have a huge passion for programming and have competed nationally.
-- I currently work with Java, Python and C#
+👋 Hi, I’m @DylanKirbs, Dylan Kirby (He/Him)
+
+I am currently enrolled in Stellenbosch University in South Africa for a BSc in Computer Science with a focal area of Data Science.
