@@ -1,3 +1,4 @@
-👋 Hi, I’m @DylanKirbs, Dylan Kirby (He/Him)
+👋 Hi, I’m Dylan Kirby.
 
-I am currently enrolled in Stellenbosch University in South Africa for a BSc in Computer Science with a focal area of Data Science.
+I am a undergrad student at the university of Stellenbosch.
+I am studying a BSc Computer Science with a minor in Data Science.
