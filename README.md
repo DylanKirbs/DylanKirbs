@@ -1,15 +1,22 @@
-👋 Hey there! I'm Dylan Kirby, an enthusiastic Computer Science undergrad at Stellenbosch University 🎓. Currently pursuing a Bachelor of Science with a major in Computer Science and a minor in Data Science 📊🖥️. 
+👋 Hey! I'm Dylan Kirby, a Computer Science student at Stellenbosch University 🎓. I thrive on solving complex problems and building creative, functional tech solutions. Whether it's coding in Python, Rust, JavaScript, or working on innovative projects, I’m all about blending technical depth with creative flair.
 
-🧠 My passion lies at the intersection of code and creativity. When I'm not diving deep into Java, Python, R, and GIT for my coursework, you'll find me exploring the world of open source and tinkering with exciting projects.
+🖥️ **What I'm Up To:**  
+- At university, I'm focused on coursework involving **Python**, **Java**, **TypeScript**, and **Git** while honing my expertise in software development and systems thinking.  
+- As part of the **Helshoogte Mens Residence House Committee**, I manage our **Room Points System**, streamlining operations with efficient, tech-forward solutions.  
 
-💡 Beyond the classroom, I enjoy sharing knowledge as a tutor for fellow students and offering guidance to newcomers in my residence. As an active member of the Social and Environmental Impact Committee, I'm dedicated to giving back to the community through initiatives like river clean-ups and food drives. 🌱
+🌍 **Outside the Classroom:**  
+- I'm all about giving back. From mentoring fellow students to managing digital systems in my residence, I’m always looking for ways to create impact.  
+- I also have a knack for turning big ideas into functional tools—like **When & Where**, an event management platform, or **NoteFlow**, a collaborative markdown editor inspired by Obsidian.  
 
-💼 I've also dipped my toes into the professional world, working part-time as an information technology consultant at The Institute for Mindfulness of South Africa. My role has strengthened my skills in WordPress and Mailchimp while contributing to the organization's digital presence.
+🚀 **Tech Geek Vibes:**  
+- Obsessed with open-source tech, I've fully transitioned to **NixOS** for its declarative, stable setups. My Linux setup keeps my workflow sharp and efficient.  
+- I experiment with **containers** (Docker+Traefik) and **virtualization** (Proxmox) while optimizing projects in languages like Rust for performance-critical applications.  
 
-🚀 Always seeking growth and learning, I've built a strong foundation in software development and data analysis. From mastering GIT to crafting solutions in Java, Python, and R, I'm ready to tackle challenges and create innovative solutions.
+🎧 **Creative Side:**  
+- I dabble in music reconstruction using Linux MIDI tools, focusing on creating dynamic and spacious soundscapes.  
 
-🧮 Mathematics and I go way back – my deep understanding of linear algebra and other mathematical concepts has been refined through both academics and extracurricular research.
+📈 **Beliefs:**  
+- I value **open collaboration**, **customization**, and modular, maintainable code. Whether it’s tweaking themes in React or designing a new system, I chase both functionality and aesthetics.  
+- Always curious, I'm driven by the idea of **learning by doing**—breaking things, fixing them, and coming out smarter on the other side.  
 
-🌟 Passionate about staying ahead of the curve, I'm a firm believer in continuous learning. My curiosity for emerging technologies and trends fuels my commitment to professional development, ensuring I'm always ready to take on new and exciting challenges.
-
-Let's connect and collaborate on the next big thing in tech! 🚀👾 #CodeExplorer #TechEnthusiast #OpenSourceAdvocate
+Let's connect, innovate, and bring cool ideas to life! 🚀 #OpenSourceAdvocate #CodeCooker #LinuxPowerUser
